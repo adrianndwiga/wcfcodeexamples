@@ -1,0 +1,5 @@
+C:\git\WcfGettingStarted\src\WcfGettingStarted.Service\bin\WcfGettingStarted.Service.dll
+C:\git\WcfGettingStarted\src\WcfGettingStarted.Service\bin\WcfGettingStarted.Service.pdb
+C:\git\WcfGettingStarted\src\WcfGettingStarted.Service\obj\Debug\ResolveAssemblyReference.cache
+C:\git\WcfGettingStarted\src\WcfGettingStarted.Service\obj\Debug\WcfGettingStarted.Service.dll
+C:\git\WcfGettingStarted\src\WcfGettingStarted.Service\obj\Debug\WcfGettingStarted.Service.pdb
